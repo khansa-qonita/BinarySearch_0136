@@ -1,4 +1,8 @@
 #include <iostream>
 using namespace std;
 
-int 
+int element[10];
+int nPanjang;
+int x;
+
+
